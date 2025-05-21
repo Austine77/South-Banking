@@ -1,0 +1,46 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 May 2025 03:31:23 at https://revo-swift.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://revo-swift.com -O1 "\Revo Swift" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:31:54	Error: 	"Not Found" (404) at link https://revo-swift.com/public/hm/asset/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap (from https://revo-swift.com/)
+03:32:41	Error: 	"Not Found" (404) at link https://revo-swift.com/public/hm/assets/images/backgrounds/slogan-style1-bg.jpg (from https://revo-swift.com/)
+03:32:41	Error: 	"Not Found" (404) at link https://revo-swift.com/about.html (from https://revo-swift.com/)
+03:32:41	Error: 	"Not Found" (404) at link https://revo-swift.com/cdn-cgi/l/email-protection (from https://revo-swift.com/)
+03:32:50	Error: 	"Not Found" (404) at link https://revo-swift.com/public/hm/assets/vendors/images/icon/bx_loader.gif (from https://revo-swift.com/public/hm/assets/vendors/bxslider/jquery.bxslider.css)
+03:32:50	Error: 	"Not Found" (404) at link https://revo-swift.com/public/hm/assets/vendors/img/bx-slider/controls.png (from https://revo-swift.com/public/hm/assets/vendors/bxslider/jquery.bxslider.css)
+03:32:52	Error: 	"Not Found" (404) at link https://revo-swift.com/public/hm/assets/vendors/owl-carousel/owl.video.play.png (from https://revo-swift.com/public/hm/assets/vendors/owl-carousel/owl.carousel.min.css)
+03:32:52	Error: 	"Not Found" (404) at link https://revo-swift.com/public/hm/assets/vendors/vegas/overlays/02.png (from https://revo-swift.com/public/hm/assets/vendors/vegas/vegas.min.css)
+03:32:52	Error: 	"Not Found" (404) at link https://revo-swift.com/assets/images/shapes/fact-counter-style1-shape-left.jpg (from https://revo-swift.com/about)
+03:32:52	Error: 	"Not Found" (404) at link https://revo-swift.com/assets/images/shapes/fact-counter-style1-shape-right.jpg (from https://revo-swift.com/about)
+03:32:52	Error: 	"Not Found" (404) at link https://revo-swift.com/assets/images/blog/blog-details-img-1-1.jpg (from https://revo-swift.com/business-savings-account)
+03:32:54	Error: 	"Not Found" (404) at link https://revo-swift.com/auth/__manifest.json (from https://revo-swift.com/auth/login)
+03:32:55	Warning: 	Moved Permanently for https://revo-swift.com/Trident/
+03:32:55	Warning: 	File has moved from https://revo-swift.com/Trident/ to https://revo-swift.com/Trident
+03:32:55	Warning: 	Moved Permanently for https://revo-swift.com/Edge/
+03:32:55	Warning: 	File has moved from https://revo-swift.com/Edge/ to https://revo-swift.com/Edge
+03:32:55	Warning: 	Moved Permanently for https://revo-swift.com/Gecko/
+03:32:55	Warning: 	File has moved from https://revo-swift.com/Gecko/ to https://revo-swift.com/Gecko
+03:32:56	Warning: 	Moved Permanently for https://revo-swift.com/Firefox/
+03:32:56	Warning: 	File has moved from https://revo-swift.com/Firefox/ to https://revo-swift.com/Firefox
+03:32:56	Warning: 	Moved Permanently for https://revo-swift.com/Version/
+03:32:56	Warning: 	File has moved from https://revo-swift.com/Version/ to https://revo-swift.com/Version
+03:32:57	Warning: 	Moved Permanently for https://revo-swift.com/version/
+03:32:57	Warning: 	File has moved from https://revo-swift.com/version/ to https://revo-swift.com/version
+03:32:57	Warning: 	Moved Permanently for https://revo-swift.com/dist/
+03:32:57	Warning: 	File has moved from https://revo-swift.com/dist/ to https://revo-swift.com/dist
+03:32:59	Error: 	"Not Found" (404) at link https://revo-swift.com/__manifest.json (from https://revo-swift.com/reset-link)
+03:32:59	Error: 	"Not Found" (404) at link https://revo-swift.com/auth/__service-worker.js (from https://revo-swift.com/public/bb/assets/js/base.js)
+03:32:59	Error: 	"Error when decompressing" (-1) at link https://revo-swift.com/Trident (from https://revo-swift.com/Trident/)
+03:32:59	Error: 	"Error when decompressing" (-1) at link https://revo-swift.com/Edge (from https://revo-swift.com/Edge/)
+03:32:59	Error: 	"Error when decompressing" (-1) at link https://revo-swift.com/Gecko (from https://revo-swift.com/Gecko/)
+03:32:59	Error: 	"Error when decompressing" (-1) at link https://revo-swift.com/Firefox (from https://revo-swift.com/Firefox/)
+03:32:59	Error: 	"Not Found" (404) at link https://revo-swift.com/Version (from https://revo-swift.com/Version/)
+03:32:59	Error: 	"Error when decompressing" (-1) at link https://revo-swift.com/version (from https://revo-swift.com/version/)
+03:32:59	Error: 	"Not Found" (404) at link https://revo-swift.com/dist (from https://revo-swift.com/dist/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 36 seconds : 253 links scanned, 224 files written (13502493 bytes overall) [8810662 bytes received at 91777 bytes/sec], 7301597 bytes transferred using HTTP compression in 133 files, ratio 30%, 12.6 requests per connection
+(21 errors, 14 warnings, 0 messages)
